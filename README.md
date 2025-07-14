@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # Three-Tier-Python-Web-Application
-For creating a robust three-tier web application
+For creating a robust three-tier web application (By satya)
 =======
 # Three-Tier Python Web Application on Google Compute Engine and CloudSQL
 
